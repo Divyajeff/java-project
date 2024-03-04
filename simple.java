@@ -1,6 +1,6 @@
 Class Simple {
 	pubilc static void main(string args[]){
-		System.out.printlt("Welcome to Edureka:");
+		System.out.printlt("Welcome to online training:");
 	}
 }
 
